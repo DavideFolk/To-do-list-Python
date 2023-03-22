@@ -1,5 +1,4 @@
-# from functions import get_todos, write_todos ---- altro modo per importare funzioni da un file
-import functions  # se ci fosse cartella diversa: from nome_cartella import functions
+import functions
 import time
 
 now = time.strftime('%b %d, %Y %H:%M:%S')
